@@ -28,6 +28,11 @@ Achieving 96.57% accuracy, this hybrid ensemble approach is optimized for both a
 * Apply SMOTE for class balancing
 * Train and evaluate SVM using 5-fold cross-validation
 
+Sample images from UC Merced Dataset
+
+![image](https://github.com/user-attachments/assets/c5579257-690c-491f-862f-042832031f83)
+
+
 System Architecture
 
 ![image](https://github.com/user-attachments/assets/48378b30-a42b-4f9f-afa3-a6437cfd081d)
@@ -37,6 +42,10 @@ System Architecture
 🎯 Macro Precision: 96.82%
 🔁 Macro Recall: 96.57%
 🧠 Macro F1-Score: 96.57%
+
+Confusion Matrix
+
+![image](https://github.com/user-attachments/assets/c9c122cc-d3bd-47a8-b094-69f56b9ff668)
 
 Visualizations include:
 * Confusion matrices for all folds
