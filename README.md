@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eafc604a-bf16-4562-9b64-a810a6e498f5)# Land-Use-Classification-using-Ensemble-Hybrid-Model-A-Study-on-the-UC-Merced-Dataset
+# Land-Use-Classification-using-Ensemble-Hybrid-Model-A-Study-on-the-UC-Merced-Dataset
 This repository presents a deep learning-based remote sensing project that performs land use classification using aerial imagery from the UCMerced Land Use Dataset. The system combines pretrained CNN models (MobileNet and DenseNet121) for feature extraction and utilizes a linear SVM for final classification.
 Achieving 96.57% accuracy, this hybrid ensemble approach is optimized for both accuracy and computational efficiency, making it suitable for real-time geospatial analysis and environmental applications.
 
@@ -29,6 +29,7 @@ Achieving 96.57% accuracy, this hybrid ensemble approach is optimized for both a
 * Train and evaluate SVM using 5-fold cross-validation
 
 System Architecture
+
 ![image](https://github.com/user-attachments/assets/48378b30-a42b-4f9f-afa3-a6437cfd081d)
 
 📈 Output & Results
