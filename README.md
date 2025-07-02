@@ -38,10 +38,10 @@ System Architecture
 ![image](https://github.com/user-attachments/assets/48378b30-a42b-4f9f-afa3-a6437cfd081d)
 
 📈 Output & Results
-✅ Accuracy: 96.57%
-🎯 Macro Precision: 96.82%
-🔁 Macro Recall: 96.57%
-🧠 Macro F1-Score: 96.57%
+ ✅ Accuracy: 96.57%
+ 🎯 Macro Precision: 96.82%
+ 🔁 Macro Recall: 96.57%
+ 🧠 Macro F1-Score: 96.57%
 
 Confusion Matrix
 
